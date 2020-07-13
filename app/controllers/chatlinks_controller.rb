@@ -1,0 +1,2 @@
+class ChatlinksController < ApplicationController
+end

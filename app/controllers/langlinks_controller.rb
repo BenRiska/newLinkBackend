@@ -1,0 +1,2 @@
+class LanglinksController < ApplicationController
+end
